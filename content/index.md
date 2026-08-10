@@ -3,7 +3,7 @@ publish: true
 permalink: /index.md
 title: qwesasuke
 created: 2026-08-10T12:16:43.664Z
-modified: 2026-08-10T17:17:25.821Z
+modified: 2026-08-10T20:14:38.164Z
 ---
 
 Hi! I’m an indie developer. I create games, experiment with game design, and gather my knowledge, ideas, and useful resources here.
@@ -13,6 +13,10 @@ Hi! I’m an indie developer. I create games, experiment with game design, and g
 - [Telegram](https://t.me/qwesasuke)
 - [Siberian Game Jam](https://platform.sibgamejam.com/games/qwesasuke/sibjammay26/jams)
 - [GitHub](https://github.com)
+- [Sketchfab](https://sketchfab.com/qwesasuke)
+- [Soundcloud](https://soundcloud.com/qwesasuke/)
+- [Itch.io](https://qwesasuke.itch.io/)
+- [Gamejolt](https://gamejolt.com/@qwesasuke/games)
 
 ## Articles
 

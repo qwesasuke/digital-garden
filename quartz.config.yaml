@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: qwesasuke.github.io/digital-garden
+  baseUrl: qwesasuke.github.io
   ignorePatterns:
     - private
     - templates

@@ -1,0 +1,15 @@
+.DS_Store
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
+SettingsProfiles
+content/.trash
+.env
+*-ez.py
+*ez-ignore*

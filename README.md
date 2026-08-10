@@ -1,4 +1,4 @@
-https://qwesasuke.github.io/digital-garden/
+https://qwesasuke.github.io
 
 # Quartz v5
 

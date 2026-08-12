@@ -3,7 +3,7 @@ publish: true
 permalink: /ru/Articles/Почему SIlent Hill 2 великая игра.md
 title: Человеческие черты
 created: 2026-08-12T11:23:04.264Z
-modified: 2026-08-12T12:01:02.297Z
+modified: 2026-08-12T16:21:20.025Z
 ---
 
 # При чем тут Губка-Боб?
